@@ -1,0 +1,42 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Matías Altamirano
+    - name: Date of Birth
+      value: 20th December 1995
+    - name: Languages
+      value: Spanish, English, French
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Statistical Science
+      institution: University College London, London, UK
+      year: 2022 - Present
+
+    - title: M.S. in Engineering Sciences, Applied Mathematics 
+      institution: Universidad de Chile, Santiago, Chile
+      year: 2020-2021
+
+    - title: B.S. in Engineering Sciences, Mathematics 
+      institution: Universidad de Chile, Santiago, Chile
+      year: 2014-2019
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - UCL Departmental Teaching Assistant studentship for 3.5 years
+        - Best thesis, Msc in applied mathematics, Universidad de Chile
+    - year: 2020
+      items: 
+        - Best Paper Award at 10th International Conference in Methodologies and Intelligent Systems for Technology Enhanced Learning 
+        - Center of Mathematical Modelling (CMM), Msc in applied mathematics Scholarship
+    - year: 2015-2019
+      items:
+        - Faculty of Physical and Mathematical Sciences, Universidad de Chile, Outstanding student
+- title: Academic Interests
+  type: list
+  contents: Robust Bayesian inference, Guassian Processes.
