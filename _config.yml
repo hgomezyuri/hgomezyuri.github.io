@@ -55,7 +55,7 @@ navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
-max_width: 800px
+max_width: 850px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -270,7 +270,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Altamirano]
+  last_name: [Gómez yuri]
   first_name: [Hernán]
 
   style: apa
