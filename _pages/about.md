@@ -22,4 +22,4 @@ I am a Chilean lawyer from the Universidad de Chile and an LL.M. candidate at [Y
 
 My research interests involve public law, comparative law, and political theory. In particular, I am interested in the theory and design of what the English-speaking literature has called fourth-branch institutions.
 
-Previously, in Chile, I worked as a research assistant with Professor [Pablo Marshall](https://www.derecho.uach.cl/index.php/profesores/profesores-jornada-completa/18-cuerpo-academico/639-pablomarshallbarberan.html) on a Fondecyt Project and as a lecturer in the Department of Legal Theory of the [UCSH](https://www.ucsh.cl/) and [UDP](https://www.udp.cl/).
+Previously, in Chile, I worked as a research assistant with Professor [Pablo Marshall](https://www.derecho.uach.cl/index.php/profesores/profesores-jornada-completa/18-cuerpo-academico/639-pablomarshallbarberan.html) on a Fondecyt Project and as a lecturer of courses related to legal theory at [UCSH](https://www.ucsh.cl/) and [UDP](https://www.udp.cl/).
