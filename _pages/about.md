@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 
 ---
-<header class="post-header" About me>
+<h1 class="post-title">About me</h1>
 
 I am a J.S.D. candidate at [Yale Law School](https://law.yale.edu), where I obtained my LL.M. degree in 2024 as a Fulbright Scholar. I also hold an LL.B. from the University of Chile, where I served as a teaching assistant in the fields of legal theory, critical legal theory, and moral philosophy.
 
