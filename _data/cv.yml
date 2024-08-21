@@ -11,9 +11,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: LL.M. Candidate
+    - title: J.S.D. Candidate
       institution: Yale Law School, US
-      year: 2022 - Present
+      year: 2024 - Present
+
+    - title: LL.M.
+      institution: Yale Law School, US
+      year: 2023 - 2024
 
     - title: Bachelor of Laws
       institution: Universidad de Chile, Santiago, Chile
