@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
+nav: true
 nav_order: 1
 
 ---
+<header class="post-header" About me>
+
 I am a J.S.D. candidate at [Yale Law School](https://law.yale.edu), where I obtained my LL.M. degree in 2024 as a Fulbright Scholar. I also hold an LL.B. from the University of Chile, where I served as a teaching assistant in the fields of legal theory, critical legal theory, and moral philosophy.
 
 Before going to Yale, I taught courses on legal theory at the [Diego Portales University](https://derecho.udp.cl) and the [Catholic University Silva Henriquez](https://www.ucsh.cl/escuelas/escuela-de-derecho/). I was also a research assistant on a project for the Chilean National Research Fund for Science and Technology (Fondecyt) about the rights of people with disabilities, coauthoring pieces on issues such as autonomy, supported decision-making, and voting rights. Hernán has also published articles on legal theory, constitutional law, and human rights.
