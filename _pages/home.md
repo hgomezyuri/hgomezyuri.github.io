@@ -1,9 +1,22 @@
 ---
-layout: page
-title: About
-permalink: /about/
-nav_order: 1
+layout: about
+title: Home
+permalink: /
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
+  address: #>
+    #<p>555 your office number</p>
+    #<p>123 your address street</p>
+    #<p>Your City, State 12345</p>
+
+news: true  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 I am a J.S.D. candidate at [Yale Law School](https://law.yale.edu), where I obtained my LL.M. degree in 2024 as a Fulbright Scholar. I also hold an LL.B. from the University of Chile, where I served as a teaching assistant in the fields of legal theory, critical legal theory, and moral philosophy.
 
