@@ -19,6 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral candidate (J.S.D.) at [Yale Law School](https://law.yale.edu). My research focuses on comparative public law and political theory; in particular, my dissertation explores the design and development of fourth-branch institutions (organismos constitucionales autónomos) across Latin American constitutions and their impact on the system of checks and balances.
+I am a doctoral candidate (J.S.D.) at Yale Law School. My research interests are constitutional law, comparative law, and political theory.
+
+My dissertation explores the design and development of fourth-branch institutions (organismos constitucionales autónomos) across Latin American constitutions and their impact on the system of checks and balances.
+
 
 I am currently working under the supervision of [Cristina Rodríguez](https://law.yale.edu/cristina-rodriguez) (chair), [Bruce Ackerman](https://law.yale.edu/bruce-ackerman) (reader), [Susan Rose-Ackerman](https://law.yale.edu/susan-rose-ackerman) (reader), [Nicholas R. Parrillo](https://law.yale.edu/nicholas-r-parrillo) (reader).
