@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral candidate (J.S.D.) at Yale Law School. My research interests are constitutional law, comparative law, and political theory.
+I am a doctoral candidate (J.S.D.) at [Yale Law School](https://law.yale.edu). My research interests are constitutional law, comparative law, and political theory.
 
 My dissertation explores the design and development of fourth-branch institutions (organismos constitucionales autónomos) across Latin American constitutions and their impact on the system of checks and balances.
 
