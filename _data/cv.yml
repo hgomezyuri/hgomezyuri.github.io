@@ -20,24 +20,24 @@
     - title: Bachelor of Laws
       institution: Universidad de Chile, Santiago, Chile
       year: 2014-2021
-
+      
 - title: Academic Experience
   type: time_table
   contents:
+    - title: Land Steiermark Fellow
+      institution: Karl-Franzens-Universität Graz, Austria
+      year: Fall 2025
+      description:
+        - Short-term research fellowship funded by the State of Styria, supporting academic research in constitutional and comparative law at the Faculty of Law of the University of Graz.
     - title: Research assistant
       institution: Yale Law School & Max Planck Institute (Hamburg)
       year: Fall 2024
-
     - title: Research assistant
       institution: Austral University of Chile
       year: 2021-2023
-
     - title: Lecturer
       institution: Silva Henríquez Catholic University
       year: Fall 2021-2023
-
     - title: Lecturer
       institution: Diego Portales University
       year: Fall 2022
-  #type: list
-  #contents: Robust Bayesian inference, Guassian Processes.
