@@ -16,3 +16,6 @@ $max-content-width: {{ site.max_width }};
 
 // Make the profile photo a perfect circle
 .profile img.rounded-circle { aspect-ratio: 1 / 1; object-fit: cover; object-position: center 35%; }
+
+// Profile photo size and alignment next to the intro text
+@media (min-width: 576px) { .profile.float-right { width: 230px; margin-left: 2rem; margin-top: -12px; } }
