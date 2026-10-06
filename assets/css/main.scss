@@ -13,3 +13,6 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+// Make the profile photo a perfect circle
+.profile img.rounded-circle { aspect-ratio: 1 / 1; object-fit: cover; object-position: center 35%; }
